@@ -1,0 +1,122 @@
+[
+    {
+      "_id": "F4Xh5iJQfH9E6IUX",
+      "flags": {},
+      "type": 2,
+      "name": "Driftglobe",
+      "url": "https://5e.tools/img/items%2FDriftglobe.jpg",
+      "collection": "plutonium.items",
+      "resultId": "dXmy9X5xWranbW29",
+      "weight": 1,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "v5fDJaIZbg8CtUBD",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Healing",
+      "url": "systems/dnd5e/icons/items/potions/minor-red.jpg",
+      "collection": "plutonium.items",
+      "resultId": "pkda4qubxrj5PUgt",
+      "weight": 1,
+      "range": [
+        1,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "afbZDOsAcaB4G42r",
+      "flags": {},
+      "type": 2,
+      "name": "Spell Scroll (Cantrip)",
+      "url": "modules/plutonium/media/icon/tied-scroll.svg",
+      "collection": "plutonium.items",
+      "resultId": "nKFg0DVBTDeSS5c5",
+      "weight": 1,
+      "range": [
+        51,
+        60
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "52GmlclENiB0dPLk",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Climbing",
+      "url": "systems/dnd5e/icons/items/potions/unique-8.jpg",
+      "collection": "plutonium.items",
+      "resultId": "8zoDctZnRYujyX4g",
+      "weight": 1,
+      "range": [
+        61,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "j1vJVjoxRReHNj43",
+      "flags": {},
+      "type": 2,
+      "name": "Spell Scroll (1st Level)",
+      "url": "modules/plutonium/media/icon/tied-scroll.svg",
+      "collection": "plutonium.items",
+      "resultId": "GPYJShkJMniiNJsO",
+      "weight": 1,
+      "range": [
+        71,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jpdzrijS5KhLwpKU",
+      "flags": {},
+      "type": 2,
+      "name": "Spell Scroll (2nd Level)",
+      "url": "modules/plutonium/media/icon/tied-scroll.svg",
+      "collection": "plutonium.items",
+      "resultId": "wxK5VcN5BnTDkTNC",
+      "weight": 1,
+      "range": [
+        91,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HlBLOuAJw0sKWxCU",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Greater Healing",
+      "url": "systems/dnd5e/icons/items/potions/major-red.jpg",
+      "collection": "plutonium.items",
+      "resultId": "kD7ncL03Eaka3eAW",
+      "weight": 1,
+      "range": [
+        95,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aTPlBor5LNXLpDFN",
+      "flags": {},
+      "type": 2,
+      "name": "Bag of Holding",
+      "url": "https://5e.tools/url/items%2FBag%20of%20Holding.jpg",
+      "collection": "plutonium.items",
+      "resultId": "q6EtFaXX0LRCoYwc",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ]

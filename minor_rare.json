@@ -1,0 +1,394 @@
+[
+    {
+      "_id": "hpA3J2zpCCFSAWFR",
+      "flags": {},
+      "type": 0,
+      "name": "Sending Stones",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bvV9wzKq51dU1lf0",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Superior Healing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "r3IC8KU1k6yxnVBz",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (4th Level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XtAyni2hZvpGJDHo",
+      "flags": {},
+      "type": 0,
+      "name": "+2 ammunition",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        23,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AdszgFlfVEFNQU27",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Clairvoyance",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SCNrFa6vWQ1ccw01",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Diminution",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4QcahjpsLPoGwbAi",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Gaseous Form",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        42
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qBoTgM74QZ4EfPRL",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Frost Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        43,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BQX0ofiBK0Lc1IxG",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Stone Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        52
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MyS0F1O2u39d3H7y",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Heroism",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        53,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "E0ZKivhvPhcQ3a6L",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Invulnerability",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eUWeR7G5npB4y00L",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Mind Reading",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BrzT71AoH1nZeBHf",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (5th Level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DSwVso4GTx1VzBXM",
+      "flags": {},
+      "type": 0,
+      "name": "Elixir of Health",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Hg9ozKONlRgizG7Q",
+      "flags": {},
+      "type": 0,
+      "name": "Oil of Etherealness",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RgscTUd6C9tgjOmg",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Fire Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DRFOuloEDVbJXovy",
+      "flags": {},
+      "type": 0,
+      "name": "Quaal's Feather Token",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Oh63KcsmQIrinCR9",
+      "flags": {},
+      "type": 0,
+      "name": "Scroll of Protection",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gmRyLvmcFHPRnbhQ",
+      "flags": {},
+      "type": 0,
+      "name": "Bag of Beans",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Rrj8Wk8hgAmdQm2e",
+      "flags": {},
+      "type": 0,
+      "name": "Bead of Force",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oo3g2QmVwRpOXf6l",
+      "flags": {},
+      "type": 0,
+      "name": "Chime of Opening",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "L8WufSDPHhJhIb45",
+      "flags": {},
+      "type": 0,
+      "name": "Decanter of Endless Water",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2lKfjAeLWn1Ekb9T",
+      "flags": {},
+      "type": 0,
+      "name": "Eyes of Minute Seeing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Crkhead50zYlgf2p",
+      "flags": {},
+      "type": 0,
+      "name": "Folding Boat",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wjVQ0Bu13ubFn4GE",
+      "flags": {},
+      "type": 0,
+      "name": "Heward's Handy Haversack",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oUa49XT7nI4x8UmW",
+      "flags": {},
+      "type": 0,
+      "name": "Horseshoes of Speed",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lRskiLhdXVAJM207",
+      "flags": {},
+      "type": 0,
+      "name": "Necklace of Fireballs",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JO3Nq9SwkKCoEOWw",
+      "flags": {},
+      "type": 0,
+      "name": "Periapt of Health",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ]

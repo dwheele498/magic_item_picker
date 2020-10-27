@@ -1,0 +1,517 @@
+[
+    {
+      "_id": "XkzAZld9j37CCMGa",
+      "flags": {},
+      "type": 2,
+      "name": "Wand of Secrets",
+      "url": "https://5e.tools/img/items%2FWand%20of%20Secrets.jpg",
+      "collection": "plutonium.items",
+      "resultId": "FXpr8ZiTIlnzgPkW",
+      "weight": 1,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RoFiBaxSkfkt8OXl",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Greater Healing",
+      "url": "systems/dnd5e/icons/items/potions/major-red.jpg",
+      "collection": "plutonium.items",
+      "resultId": "kD7ncL03Eaka3eAW",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8o92BDXXMO5r1QSE",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Fire Breath",
+      "url": "modules/plutonium/media/icon/potion-ball.svg",
+      "collection": "plutonium.items",
+      "resultId": "z1qXMwfMYY1QaB44",
+      "weight": 1,
+      "range": [
+        16,
+        22
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2uHJFGuRNCsJrgbe",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Radiant Resistance",
+      "url": "systems/dnd5e/icons/items/potions/grand-yellow.jpg",
+      "collection": "plutonium.items",
+      "resultId": "aWCbtAhZObprQePA",
+      "weight": 1,
+      "range": [
+        23,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "4i6QLAkuhH6UEkAm",
+      "flags": {},
+      "type": 2,
+      "name": "+1 Ammunition",
+      "url": "modules/plutonium/media/icon/crossed-swords.svg",
+      "collection": "plutonium.items",
+      "resultId": "9KQSzYE3Yz8Cx8lG",
+      "weight": 1,
+      "range": [
+        30,
+        34
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jjs5j9mFz9smGf0Z",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Animal Friendship",
+      "url": "systems/dnd5e/icons/items/potions/unique-4.jpg",
+      "collection": "plutonium.items",
+      "resultId": "PMvnJtkOWtbSPKzO",
+      "weight": 1,
+      "range": [
+        35,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nC5XDHiQF0NFPvSQ",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Hill Giant Strength",
+      "url": "systems/dnd5e/icons/items/potions/major-green.jpg",
+      "collection": "plutonium.items",
+      "resultId": "bGrDJRh7lJvoAUkl",
+      "weight": 1,
+      "range": [
+        40,
+        44
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6lTSMMhkP8qXR7TQ",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Growth",
+      "url": "systems/dnd5e/icons/items/potions/unique-9.jpg",
+      "collection": "plutonium.items",
+      "resultId": "3xsMsCHfrLGm1ZjD",
+      "weight": 1,
+      "range": [
+        45,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "p093VpnXPiUa2Ld5",
+      "flags": {},
+      "type": 2,
+      "name": "Potion of Water Breathing",
+      "url": "systems/dnd5e/icons/items/potions/unique-4.jpg",
+      "collection": "plutonium.items",
+      "resultId": "WbPoZ0WiV24nMAmE",
+      "weight": 1,
+      "range": [
+        50,
+        54
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gxXGvljnMeRAKYcg",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (2nd Level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        55,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mpqDvKkJNK9GOn1o",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (3rd Level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        64
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ZeDaGPJQyTPXiiin",
+      "flags": {},
+      "type": 0,
+      "name": "Bag of Holding",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        65,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Yg6gtU9MjxrHiTuN",
+      "flags": {},
+      "type": 0,
+      "name": "Keoghtom's Ointment",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wqievaOPSGA0CTf4",
+      "flags": {},
+      "type": 0,
+      "name": "Oil of Slipperiness",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AGmuCYvOQpNKSVnM",
+      "flags": {},
+      "type": 0,
+      "name": "Dust of Disappearance",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OnDGCUpiBu9WWJEu",
+      "flags": {},
+      "type": 0,
+      "name": "Dust of Dryness",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kK5dSCNfv0p73KLM",
+      "flags": {},
+      "type": 0,
+      "name": "Dust of Sneezing and Choking",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "n9TNKX2QoTdT3gO6",
+      "flags": {},
+      "type": 0,
+      "name": "Elemental Gem",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QsPjoCvLfaB8HOAX",
+      "flags": {},
+      "type": 0,
+      "name": "Philter of Love",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aVOQyhqHzYtb1NOr",
+      "flags": {},
+      "type": 0,
+      "name": "Alchemy Jug",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xnmz4t4iD68nTS3j",
+      "flags": {},
+      "type": 0,
+      "name": "Cap of Water Breathing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EKfDOrZNEnCStcOh",
+      "flags": {},
+      "type": 0,
+      "name": "Cloak of the Manta Ray",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QRaDXoBceNVh4sru",
+      "flags": {},
+      "type": 0,
+      "name": "Driftglobe",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bBeW1VzpUzjFSFwi",
+      "flags": {},
+      "type": 0,
+      "name": "Goggles of Night",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gRWrUfDeUlxlDYi5",
+      "flags": {},
+      "type": 0,
+      "name": "Helm of Comprehending Languages",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dZl5kQZ4vPyOT2xj",
+      "flags": {},
+      "type": 0,
+      "name": "Immovable Rod",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VjjSVhYuTeXodFCX",
+      "flags": {},
+      "type": 0,
+      "name": "Lantern of Revealing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "An7ypN17VNlCHjqa",
+      "flags": {},
+      "type": 0,
+      "name": "Mariner's Armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Gz4kbrVCwaJBHQAc",
+      "flags": {},
+      "type": 0,
+      "name": "Mithral Armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vUFLFC3cX0F3NluO",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Poison",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aXrkjGBiuCDUk2sR",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Swimming",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KbqDTTtPW7kOWli5",
+      "flags": {},
+      "type": 0,
+      "name": "Robe of Useful Items",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bXKiOVGLMZoIazKD",
+      "flags": {},
+      "type": 0,
+      "name": "Rope of Climbing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DhQWzPogPMGhJT6H",
+      "flags": {},
+      "type": 0,
+      "name": "Saddle of the Cavalier",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GTizeLLSfcRRols6",
+      "flags": {},
+      "type": 0,
+      "name": "Wand of Magic Detection",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cB61mq1minr9oSsR",
+      "flags": {},
+      "type": 2,
+      "name": "+1 Ammunition",
+      "url": "modules/plutonium/media/icon/crossed-swords.svg",
+      "collection": "plutonium.items",
+      "resultId": "9KQSzYE3Yz8Cx8lG",
+      "weight": 1,
+      "range": [
+        100,
+        102
+      ],
+      "drawn": false
+    }
+
+]

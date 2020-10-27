@@ -1,0 +1,118 @@
+{
+  "_id": "j7LK4ay0R2AYQvA0",
+  "name": "Minor Tier Legendary",
+  "sort": 1600001,
+  "flags": {
+    "exportSource": {
+      "world": "test1",
+      "system": "dnd5e",
+      "coreVersion": "0.7.5",
+      "systemVersion": 0.96
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "JNYmUjfgyPvAwqT8",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (8th level)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qolmOFA0H9aeKVxY",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Storm Giant Strength",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lfIMsTp4gtfjnv7C",
+      "flags": {},
+      "type": 0,
+      "text": "Potion of Supreme Healing",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mGfWFNQuZJVKT7rK",
+      "flags": {},
+      "type": 0,
+      "text": "Spell Scroll (9th level)",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "V6yoRtEvrxPUxa44",
+      "flags": {},
+      "type": 0,
+      "text": "Universal Solvent",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3HsNEHjRI76l5Od8",
+      "flags": {},
+      "type": 0,
+      "text": "Arrow of Slaying",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AWzuNSA9BzS365Py",
+      "flags": {},
+      "type": 0,
+      "text": "Sovereign Glue",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true
+}

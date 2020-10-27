@@ -1,0 +1,860 @@
+{
+  "_id": "5eciJF62TKrCj9Hc",
+  "name": "Major Tier Uncommon",
+  "sort": 1700001,
+  "flags": {
+    "exportSource": {
+      "world": "test1",
+      "system": "dnd5e",
+      "coreVersion": "0.7.5",
+      "systemVersion": 0.96
+    }
+  },
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "ptBOGxcYnTdtrvDt",
+      "flags": {},
+      "type": 0,
+      "text": "Winged Boots",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qVLlWZYm0EXLfZjP",
+      "flags": {},
+      "type": 0,
+      "text": "+1 weapon",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "k1acjOeui0jZuQz9",
+      "flags": {},
+      "type": 0,
+      "text": "+1 shield",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "QBu0yFOTdzHYJJe0",
+      "flags": {},
+      "type": 0,
+      "text": "Sentinel Shield",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        21
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XXZ96HFCukGUzxQ9",
+      "flags": {},
+      "type": 0,
+      "text": "Amulet of Proof Against Detection and Location",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        22,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jgKgfKFEcXPJCsu0",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of Elvenkind",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        25
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TNzk5V6Z7wbmQlPv",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of Striding and Springing",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        26,
+        27
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VzyybyPrMaxGwwI6",
+      "flags": {},
+      "type": 0,
+      "text": "Bracers of Archery",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        28,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "guqIpzlJp6DIFdUp",
+      "flags": {},
+      "type": 0,
+      "text": "Brooch of Shielding",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        31
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ionYInvzpXuFMuVa",
+      "flags": {},
+      "type": 0,
+      "text": "Broom of Flying",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        32,
+        33
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "im5qqXHlVIFkkKQb",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of Elvenkind",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        34,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qg0XkPYinTZdSUzr",
+      "flags": {},
+      "type": 0,
+      "text": "Cloak of Protection",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        37
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5DfPF8kkMKlWObg5",
+      "flags": {},
+      "type": 0,
+      "text": "Gauntlets of Ogre Power",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        38,
+        39
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SYQ071k2QHdP8cAl",
+      "flags": {},
+      "type": 0,
+      "text": "Hat of Disguise",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        40,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DM6PcO9sz2YZLgKl",
+      "flags": {},
+      "type": 0,
+      "text": "Javelin of Lightning",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CC2wB81OxGaOah2s",
+      "flags": {},
+      "type": 0,
+      "text": "Pearl of Power",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8KZ9paGVKvnpRylU",
+      "flags": {},
+      "type": 0,
+      "text": "+1 rod of the pact keeper",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Db0eCeKm7bdissEG",
+      "flags": {},
+      "type": 0,
+      "text": "Slippers of Spider Climbing",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HFxBdwuF42K5Xpk1",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of the Adder",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Mx51dR1urpP1eZej",
+      "flags": {},
+      "type": 0,
+      "text": "Staff of the Python",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iIe3auL4Rfvp4WqD",
+      "flags": {},
+      "type": 0,
+      "text": "Sword of Vengeance",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "pEq4OJxTEFafwahm",
+      "flags": {},
+      "type": 0,
+      "text": "Trident of Fish Command",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "S3zc97oTdTSun3Ia",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of Magic Missiles",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FOCZ7OHzG9LNvvYT",
+      "flags": {},
+      "type": 0,
+      "text": "+1 wand of the war mage",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OZG6e5vsRViKbgOL",
+      "flags": {},
+      "type": 0,
+      "text": "Wand of Web",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mPpSJH5jr0EnJ0AF",
+      "flags": {},
+      "type": 0,
+      "text": "Weapon of Warning",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "r0oHty0OcEUwVyUW",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine Chain Mail",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CzqmbIHzn2ESSR4y",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine Chain Shirt",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fRZgCz21X4tPzVmv",
+      "flags": {},
+      "type": 0,
+      "text": "Adamantine Scale Mail",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cCDCMyfwiASuS0ff",
+      "flags": {},
+      "type": 0,
+      "text": "Bag of Tricks, Gray",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ps1ANCeCDd2f4lgq",
+      "flags": {},
+      "type": 0,
+      "text": "Bag of Tricks, Rust",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eFTIvJP2QQOHYddL",
+      "flags": {},
+      "type": 0,
+      "text": "Bag of Tricks, Tan",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9ApKHRwNUPJ2CjIu",
+      "flags": {},
+      "type": 0,
+      "text": "Boots of the Winterlands",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "28lct1r2GtIhsvSG",
+      "flags": {},
+      "type": 0,
+      "text": "Circlet of Blasting",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "8Q0IjwAE4vfDw4tE",
+      "flags": {},
+      "type": 0,
+      "text": "Deck of Illusions",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jqmKUkfkN94BkH41",
+      "flags": {},
+      "type": 0,
+      "text": "Eversmoking Bottle",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AOteDDAo1leb4UkR",
+      "flags": {},
+      "type": 0,
+      "text": "Eyes of Charming",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ztp5V69JzYgLRWo4",
+      "flags": {},
+      "type": 0,
+      "text": "Eyes of the Eagle",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "bnIuiwtYAn0lG6Ov",
+      "flags": {},
+      "type": 0,
+      "text": "Figurine of Wondrous Power, Silver Raven",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rrEU334lUjaS57en",
+      "flags": {},
+      "type": 0,
+      "text": "Gem of Brightness",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "71LWflLy1Dsu3IAe",
+      "flags": {},
+      "type": 0,
+      "text": "Gloves of Missile Snaring",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uuVnJ7vtNnDGkrjl",
+      "flags": {},
+      "type": 0,
+      "text": "Gloves of Swimming and Climbing",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jaNDNEYPNRbHMwd0",
+      "flags": {},
+      "type": 0,
+      "text": "Gloves of Thievery",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "atDSwzXixpvP5fEF",
+      "flags": {},
+      "type": 0,
+      "text": "Headband of Intellect",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PQLke2gNKMVWfk01",
+      "flags": {},
+      "type": 0,
+      "text": "Helm of Telepathy",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ABmQzSJqUrgBaVvA",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the Bards, Doss Lute",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Khh7gayqqpIXoTJV",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the Bards, Fochlucan Bandore",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "grMUvnSA2wzM5srV",
+      "flags": {},
+      "type": 0,
+      "text": "Instrument of the Bards, Mac-Fuirmidh Cittern",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "93n2QWlCKeXhUV0F",
+      "flags": {},
+      "type": 0,
+      "text": "Medallion of Thoughts",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7L0yhMh4PUtcdFun",
+      "flags": {},
+      "type": 0,
+      "text": "Necklace of Adaptation",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "q5akSlPsFENVcRQJ",
+      "flags": {},
+      "type": 0,
+      "text": "Periapt of Wound Closure",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OAjyBE9YdxI5jEgc",
+      "flags": {},
+      "type": 0,
+      "text": "Pipes of Haunting",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iu1AbwiJR6Qfv1td",
+      "flags": {},
+      "type": 0,
+      "text": "Pipes of the Sewers",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aeiUTqPhkmwkf9Sy",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Jumping",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GcduMbrhyDYaMSXI",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Mind Shielding",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MrthtQx2HNiP2oKn",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Warmth",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EViRjOvDjxyeWjdO",
+      "flags": {},
+      "type": 0,
+      "text": "Ring of Water Walking",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FlzfpHoPVxE9cqMT",
+      "flags": {},
+      "type": 0,
+      "text": "Quiver of Ehlonna",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9vTvvpgiMC978v8R",
+      "flags": {},
+      "type": 0,
+      "text": "Stone of Good Luck",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "6rw3a7EJFgR1ZL6a",
+      "flags": {},
+      "type": 0,
+      "text": "Wind Fan",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true
+}
