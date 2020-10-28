@@ -32,7 +32,7 @@ public class MagicItems {
 
     }
 
-    public void setRolls(){
+    public void setRolls() {
         rollStart = range[0];
         rollEnd = range[1];
     }

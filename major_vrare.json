@@ -1,9 +1,9 @@
 [
     {
-      "_id": "ugJmXtaDfIVnUtDi",
+      "_id": "OPdzACpdyln1Yrku",
       "flags": {},
       "type": 0,
-      "name": "Wings of Flying",
+      "name": "Tome of Understanding",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -14,598 +14,332 @@
       "drawn": false
     },
     {
-      "_id": "bzTjg6lwO07CTGMS",
+      "_id": "aAAevJkD1IAm1ccS",
       "flags": {},
       "type": 0,
-      "name": "+2 weapon",
+      "name": "+3 weapon",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         1,
-        11
+        10
       ],
       "drawn": false
     },
     {
-      "_id": "9LdUGwT5hAayQCXj",
+      "_id": "zKsNvD63LVybvfVt",
       "flags": {},
       "type": 0,
-      "name": "Figurine of Wondrous Power",
+      "name": "Amulet of the Planes",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
-        12,
+        11,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "96HxxjLL1XerYMry",
+      "flags": {},
+      "type": 0,
+      "name": "Carpet of Flying",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
         14
       ],
       "drawn": false
     },
     {
-      "_id": "Rm2rk1OD3pkwKZtz",
+      "_id": "G1XEySXHAjoU9I55",
       "flags": {},
       "type": 0,
-      "name": "Adamantine Breastplate",
+      "name": "Crystal Ball",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         15,
-        15
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "flest5me2Yrb4GEx",
-      "flags": {},
-      "type": 0,
-      "name": "Adamantine Splint Armor",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        16,
         16
       ],
       "drawn": false
     },
     {
-      "_id": "04WRe37bVj0dgQMR",
+      "_id": "vlbSoF3PxzOJLin0",
       "flags": {},
       "type": 0,
-      "name": "Amulet of Health",
+      "name": "Ring of Regeneration",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         17,
-        17
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "mmj3D9maMiuTW0pL",
-      "flags": {},
-      "type": 0,
-      "name": "Armor of Vulnerability",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        18,
         18
       ],
       "drawn": false
     },
     {
-      "_id": "Pirhxpr50sebBWkW",
+      "_id": "LK5PB7Y6n6lRFcxf",
       "flags": {},
       "type": 0,
-      "name": "Arrow-catching Shield",
+      "name": "Ring of Shooting Stars",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         19,
-        19
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "SIRhbTI4DAAWJBly",
-      "flags": {},
-      "type": 0,
-      "name": "Belt of Dwarvenkind",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        20,
         20
       ],
       "drawn": false
     },
     {
-      "_id": "1rBbk0cLkQe089eT",
+      "_id": "KWpSufeQOwW3p2Ec",
       "flags": {},
       "type": 0,
-      "name": "Belt of Hill Giant Strength",
+      "name": "Ring of Telekinesis",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         21,
-        21
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "dZ7aSFu2Peay0UVh",
-      "flags": {},
-      "type": 0,
-      "name": "Berserker Axe",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        22,
         22
       ],
       "drawn": false
     },
     {
-      "_id": "P3QCPqZ6qZuScdg0",
+      "_id": "XQ2Aep6Tv7XGwvNS",
       "flags": {},
       "type": 0,
-      "name": "Boots of Levitation",
+      "name": "Robe of Scintillating Colors",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         23,
-        23
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "t47ev4HbkvaCIJTf",
-      "flags": {},
-      "type": 0,
-      "name": "Boots of Speed",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        24,
         24
       ],
       "drawn": false
     },
     {
-      "_id": "1pYIzsGNOG2UJluY",
+      "_id": "WQV5nXos8wkcILzJ",
       "flags": {},
       "type": 0,
-      "name": "Bowl of Commanding Water Elementals",
+      "name": "Robe of Stars",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         25,
-        25
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "ZT1vvA6uD1s6QDvE",
-      "flags": {},
-      "type": 0,
-      "name": "Bracers of Defense",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        26,
         26
       ],
       "drawn": false
     },
     {
-      "_id": "SkLaiS6ySkfrKPM7",
+      "_id": "G8a31K25JSbSTXwZ",
       "flags": {},
       "type": 0,
-      "name": "Brazier of Commanding Fire Elementals",
+      "name": "Rod of absorption",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         27,
-        27
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "a9kS7TQNzBrrdXFj",
-      "flags": {},
-      "type": 0,
-      "name": "Cape of the Mountebank",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        28,
         28
       ],
       "drawn": false
     },
     {
-      "_id": "R856jG7Fs6Dxc788",
+      "_id": "ctMAK6wfCNbTXrpC",
       "flags": {},
       "type": 0,
-      "name": "Censer of Controlling Air Elementals",
+      "name": "Rod of Alertness",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         29,
-        29
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "e1lHvc6aba34iO2V",
-      "flags": {},
-      "type": 0,
-      "name": "+1 chain mail",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        30,
         30
       ],
       "drawn": false
     },
     {
-      "_id": "Bh9mOMB3j66oocKY",
+      "_id": "uGNpAxSxQIHR4lpm",
       "flags": {},
       "type": 0,
-      "name": "Chain Mail of Resistance",
+      "name": "Rod of Security",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         31,
-        31
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "meImuslLMNtB1O79",
-      "flags": {},
-      "type": 0,
-      "name": "+1 chain shirt",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        32,
         32
       ],
       "drawn": false
     },
     {
-      "_id": "jDAcApYZoa9bkQqE",
+      "_id": "mPOqCijePXy2wg6k",
       "flags": {},
       "type": 0,
-      "name": "Chain Shirt of Resistance",
+      "name": "+3 rod of the pact keeper",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         33,
-        33
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "q2C5CAztWnSaFK0N",
-      "flags": {},
-      "type": 0,
-      "name": "Cloak of Displacement",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        34,
         34
       ],
       "drawn": false
     },
     {
-      "_id": "tAQKf2zmf1rQU1w8",
+      "_id": "QEa88sRtSkkYvJN5",
       "flags": {},
       "type": 0,
-      "name": "Cloak of the Bat",
+      "name": "Scimitar of Speed",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         35,
-        35
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "CeBrKOBqHBNDFRID",
-      "flags": {},
-      "type": 0,
-      "name": "Cube of Force",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        36,
         36
       ],
       "drawn": false
     },
     {
-      "_id": "wSqJekD8HAhfG6V2",
+      "_id": "rTZzY1EGjDe8Z1xD",
       "flags": {},
       "type": 0,
-      "name": "Daern's Instant Fortress",
+      "name": "+3 shield",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         37,
-        37
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "JjoVod6lTSFIkFLX",
-      "flags": {},
-      "type": 0,
-      "name": "Dagger of Venom",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        38,
         38
       ],
       "drawn": false
     },
     {
-      "_id": "MhgiMLNRqBwX2e3k",
+      "_id": "DjsWCtQnMbl2XNpo",
       "flags": {},
       "type": 0,
-      "name": "Dimensional Shackles",
+      "name": "Staff of Fire",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         39,
-        39
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "p1subbBK0qSnfwAI",
-      "flags": {},
-      "type": 0,
-      "name": "Dragon Slayer",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        40,
         40
       ],
       "drawn": false
     },
     {
-      "_id": "9z72CMnPIFnaUfPM",
+      "_id": "3TCtZT1cf2NZvX2m",
       "flags": {},
       "type": 0,
-      "name": "Elven Chain",
+      "name": "Staff of Frost",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         41,
-        41
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "odudWHuTJ9NimHqZ",
-      "flags": {},
-      "type": 0,
-      "name": "Flame Tongue",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        42,
         42
       ],
       "drawn": false
     },
     {
-      "_id": "XiEm86F5V2iCLUmF",
+      "_id": "gi2zMRdzXvTzL2xx",
       "flags": {},
       "type": 0,
-      "name": "Gem of Seeing",
+      "name": "Staff of Power",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         43,
-        43
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "Xu0jYgqyNzJpxmID",
-      "flags": {},
-      "type": 0,
-      "name": "Giant Slayer",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        44,
         44
       ],
       "drawn": false
     },
     {
-      "_id": "wsh2Rnj6hbHQ6Wkz",
+      "_id": "uVwltRNAmbwpsdAb",
       "flags": {},
       "type": 0,
-      "name": "Glamoured Studded Leather",
+      "name": "Staff of Striking",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         45,
-        45
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "WyNAsbbRlfoHflNO",
-      "flags": {},
-      "type": 0,
-      "name": "Helm of Teleportation",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        46,
         46
       ],
       "drawn": false
     },
     {
-      "_id": "pZ1ZPmslKd3346VX",
+      "_id": "9OFVsPn89zAEzgCR",
       "flags": {},
       "type": 0,
-      "name": "Horn of Blasting",
+      "name": "Staff of Thunder and Lightning",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         47,
-        47
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "A1ahCqlo4rtuO2Fl",
-      "flags": {},
-      "type": 0,
-      "name": "Horn of Valhalla (silver or brass)",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        48,
         48
       ],
       "drawn": false
     },
     {
-      "_id": "azCaZMnijZVOsOHa",
+      "_id": "0vN2qY3D6A1sn0xl",
       "flags": {},
       "type": 0,
-      "name": "Instrument of the Bards, Canaith Mandolin",
+      "name": "Sword of Sharpness",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         49,
-        49
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "5gBNDstqzCSLunAU",
-      "flags": {},
-      "type": 0,
-      "name": "Instrument of the Bards, Cli Lyre",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        50,
         50
       ],
       "drawn": false
     },
     {
-      "_id": "C6jQsOcx7bUHeVvB",
+      "_id": "uaYQrDUXiY5bZIz0",
       "flags": {},
       "type": 0,
-      "name": "Ioun Stone, Awareness",
+      "name": "Wand of Polymorph",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         51,
-        51
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "4Of3KsvXVLRUYJLh",
-      "flags": {},
-      "type": 0,
-      "name": "Ioun Stone, Protection",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        52,
         52
       ],
       "drawn": false
     },
     {
-      "_id": "KCkXJ9svQHN2yKVd",
+      "_id": "Txu1AIBqSEPlkphu",
       "flags": {},
       "type": 0,
-      "name": "Ioun Stone, Reserve",
+      "name": "+3 wand of the war mage",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
         53,
-        53
-      ],
-      "drawn": false
-    },
-    {
-      "_id": "DNyCyPoMYugV1GfY",
-      "flags": {},
-      "type": 0,
-      "name": "Ioun Stone, Sustenance",
-      "url": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        54,
         54
       ],
       "drawn": false
     },
     {
-      "_id": "ysyzLY7vxcPc96Kz",
+      "_id": "pJO8tpikEYgHEIsJ",
       "flags": {},
       "type": 0,
-      "name": "Iron Bands of Bilarro",
+      "name": "Adamantine Half Plate Armor",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -616,10 +350,10 @@
       "drawn": false
     },
     {
-      "_id": "eyvta4CXKzznzr84",
+      "_id": "onrrIYGTNcCuI643",
       "flags": {},
       "type": 0,
-      "name": "+1 leather armor",
+      "name": "Adamantine Plate Armor",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -630,10 +364,10 @@
       "drawn": false
     },
     {
-      "_id": "b7z9LnUkCqRTu1nl",
+      "_id": "xiN88SwVzXLdb5Qs",
       "flags": {},
       "type": 0,
-      "name": "Leather Armor of Resistance",
+      "name": "Animated Shield",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -644,10 +378,10 @@
       "drawn": false
     },
     {
-      "_id": "WvrOIlOmnYWR78Zc",
+      "_id": "LDoG46gzBsqDf4ET",
       "flags": {},
       "type": 0,
-      "name": "Mace of Disruption",
+      "name": "Belt of Fire Giant Strength",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -658,10 +392,10 @@
       "drawn": false
     },
     {
-      "_id": "pP7lOXgjW1aT9x6U",
+      "_id": "xw5fI12afDWdZ0Rt",
       "flags": {},
       "type": 0,
-      "name": "Mace of Smiting",
+      "name": "Belt of frost or stone giant strength",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -672,10 +406,10 @@
       "drawn": false
     },
     {
-      "_id": "eGnMpCqwYjTKWlHR",
+      "_id": "nGtSxIANFlWNndO0",
       "flags": {},
       "type": 0,
-      "name": "Mace of Terror",
+      "name": "+1 breastplate",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -686,10 +420,10 @@
       "drawn": false
     },
     {
-      "_id": "kHmrMhJmHtnITEyq",
+      "_id": "U4d25jiZGc2CqzwT",
       "flags": {},
       "type": 0,
-      "name": "Mantle of Spell Resistance",
+      "name": "Breastplate of Resistance",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -700,10 +434,10 @@
       "drawn": false
     },
     {
-      "_id": "BrtpZjMHjwUHikT6",
+      "_id": "UCPnrYUr3mm6VUgJ",
       "flags": {},
       "type": 0,
-      "name": "Necklace of Prayer Beads",
+      "name": "Candle of Invocation",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -714,10 +448,10 @@
       "drawn": false
     },
     {
-      "_id": "Oud7275ej39R3vST",
+      "_id": "bSJTGLmAm2FgnAz1",
       "flags": {},
       "type": 0,
-      "name": "Periapt of Proof against Poison",
+      "name": "+2 chain mail",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -728,10 +462,10 @@
       "drawn": false
     },
     {
-      "_id": "hio6NryrKq9GdOsk",
+      "_id": "7N3fTTv87eAC2Hop",
       "flags": {},
       "type": 0,
-      "name": "Ring of Animal Influence",
+      "name": "+2 chain shirt",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -742,10 +476,10 @@
       "drawn": false
     },
     {
-      "_id": "kjsb9Cbs74vnVHL8",
+      "_id": "eFJIvjq5dsJj6uhm",
       "flags": {},
       "type": 0,
-      "name": "Ring of Evasion",
+      "name": "Cloak of Arachnida",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -756,10 +490,10 @@
       "drawn": false
     },
     {
-      "_id": "fx09N8dnbP5S0dbY",
+      "_id": "wB0V7Vz4bWcJumiR",
       "flags": {},
       "type": 0,
-      "name": "Ring of Feather Falling",
+      "name": "Dancing Sword",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -770,10 +504,10 @@
       "drawn": false
     },
     {
-      "_id": "tMDrbROn3Okk2Z8z",
+      "_id": "9yT0enQX11BhcytS",
       "flags": {},
       "type": 0,
-      "name": "Ring of Free Action",
+      "name": "Demon Armor",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -784,10 +518,10 @@
       "drawn": false
     },
     {
-      "_id": "0oZhgYhY5UXYk1Op",
+      "_id": "FDZI3VgvhXOuAE4t",
       "flags": {},
       "type": 0,
-      "name": "Ring of Protection",
+      "name": "Dragon Scale Mail",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -798,10 +532,10 @@
       "drawn": false
     },
     {
-      "_id": "xw6mxL8Nb7euhvuw",
+      "_id": "IKYJozkvxsyatrk9",
       "flags": {},
       "type": 0,
-      "name": "Ring of Resistance",
+      "name": "Dwarven Plate",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -812,10 +546,10 @@
       "drawn": false
     },
     {
-      "_id": "IsW5bqPeresF8fBF",
+      "_id": "VJy2dxJPCgmkancp",
       "flags": {},
       "type": 0,
-      "name": "Ring of Spell Storing",
+      "name": "Dwarven Thrower",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -826,10 +560,10 @@
       "drawn": false
     },
     {
-      "_id": "SOBJnehlEAEvhED2",
+      "_id": "et6Sdqo2CYhTY4te",
       "flags": {},
       "type": 0,
-      "name": "Ring of the Ram",
+      "name": "Efreeti Bottle",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -840,10 +574,10 @@
       "drawn": false
     },
     {
-      "_id": "U0vTlonbEN4l2rmk",
+      "_id": "kawDtZI10FbzeiE2",
       "flags": {},
       "type": 0,
-      "name": "Ring of X-ray Vision",
+      "name": "Figurine of Wondrous Power, Obsidian Steed",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -854,10 +588,10 @@
       "drawn": false
     },
     {
-      "_id": "s5XtSbpTSgoqeTBb",
+      "_id": "6iQMb0n0IvPdkDKC",
       "flags": {},
       "type": 0,
-      "name": "Robe of Eyes",
+      "name": "Frost Brand",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -868,10 +602,10 @@
       "drawn": false
     },
     {
-      "_id": "u7wmyIGmvLnaz4PP",
+      "_id": "St5jQhPXe18JsToV",
       "flags": {},
       "type": 0,
-      "name": "Rod of Rulership",
+      "name": "Helm of Brilliance",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -882,10 +616,10 @@
       "drawn": false
     },
     {
-      "_id": "6TIEWB5ulB2ZjLVq",
+      "_id": "09RiwlRYulV3LF4o",
       "flags": {},
       "type": 0,
-      "name": "+2 rod of the pact keeper",
+      "name": "Horn of Valhalla, Bronze",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -896,10 +630,10 @@
       "drawn": false
     },
     {
-      "_id": "omg2qY0y0PyJdTJF",
+      "_id": "9f0riB6MNBZ0RdOk",
       "flags": {},
       "type": 0,
-      "name": "Rope of Entanglement",
+      "name": "Instrument of the Bards, Anstruth Harp",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -910,10 +644,10 @@
       "drawn": false
     },
     {
-      "_id": "oKv4mBdlipjE7Qmf",
+      "_id": "OasRUdfcfV61pThi",
       "flags": {},
       "type": 0,
-      "name": "+1 scale mail",
+      "name": "Ioun Stone, Absorption,",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -924,10 +658,10 @@
       "drawn": false
     },
     {
-      "_id": "AmYwwnKOm7eLyaFi",
+      "_id": "Dwd8fp90KZlH3XsR",
       "flags": {},
       "type": 0,
-      "name": "Scale Mail of Resistance",
+      "name": "Ioun Stone, Agility,",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -938,10 +672,10 @@
       "drawn": false
     },
     {
-      "_id": "bsPygRWR5bCaDS32",
+      "_id": "QkQjKaeQbH8sj47f",
       "flags": {},
       "type": 0,
-      "name": "+2 shield",
+      "name": "Ioun Stone, Fortitude,",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -952,10 +686,10 @@
       "drawn": false
     },
     {
-      "_id": "7aEW9XznrPpguMLm",
+      "_id": "OLBmL7CKnxfSmLQQ",
       "flags": {},
       "type": 0,
-      "name": "Shield of Missile Attraction",
+      "name": "Ioun Stone, Insight",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -966,10 +700,10 @@
       "drawn": false
     },
     {
-      "_id": "bq6hBjHtMjzcVTNo",
+      "_id": "Gl7MVwjsEP9cKcZd",
       "flags": {},
       "type": 0,
-      "name": "Staff of Charming",
+      "name": "Ioun Stone, Intellect",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -980,10 +714,10 @@
       "drawn": false
     },
     {
-      "_id": "tCUt2oQnCMgN9eht",
+      "_id": "ZhgNyjVLWm8zvQD6",
       "flags": {},
       "type": 0,
-      "name": "Staff of Healing",
+      "name": "Ioun Stone, Leadership",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -994,10 +728,10 @@
       "drawn": false
     },
     {
-      "_id": "6NkZPtXHBhgj0gvV",
+      "_id": "0DN125cqPlZNt9Cn",
       "flags": {},
       "type": 0,
-      "name": "Staff of Swarming Insects",
+      "name": "Ioun Stone, Strength",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1008,10 +742,10 @@
       "drawn": false
     },
     {
-      "_id": "vSXHlVFJ6GjOmgTY",
+      "_id": "SmmHozlQOZbotSDI",
       "flags": {},
       "type": 0,
-      "name": "Staff of the Woodlands",
+      "name": "+2 leather armor",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1022,10 +756,10 @@
       "drawn": false
     },
     {
-      "_id": "NUMfbBfyMXYS5Zjv",
+      "_id": "E7tR2fXwOOMQPyhr",
       "flags": {},
       "type": 0,
-      "name": "Staff of Withering",
+      "name": "Manual of Bodily Health",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1036,10 +770,10 @@
       "drawn": false
     },
     {
-      "_id": "4qgsPJdBumEQw2bZ",
+      "_id": "WaeOjyhHdALePSpZ",
       "flags": {},
       "type": 0,
-      "name": "Stone of Controlling Earth Elementals",
+      "name": "Manual of Gainful Exercise",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1050,10 +784,10 @@
       "drawn": false
     },
     {
-      "_id": "fCS47nloPalpNCpi",
+      "_id": "UhHhBzr5vyHFSnyh",
       "flags": {},
       "type": 0,
-      "name": "Sun Blade",
+      "name": "Manual of Golems",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1064,10 +798,10 @@
       "drawn": false
     },
     {
-      "_id": "pm4Nx6TpWdBseMxQ",
+      "_id": "dwgSnHLB77KFEmhO",
       "flags": {},
       "type": 0,
-      "name": "Sword of Life Stealing",
+      "name": "Manual of Quickness of Action",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1078,10 +812,10 @@
       "drawn": false
     },
     {
-      "_id": "izWj2X0KiZQoKncp",
+      "_id": "0wSdjg8Wj7ys3FyM",
       "flags": {},
       "type": 0,
-      "name": "Sword of Wounding",
+      "name": "Mirror of Life Trapping",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1092,10 +826,10 @@
       "drawn": false
     },
     {
-      "_id": "CMPmK4XpNVRjtnNE",
+      "_id": "KfoMWub0XT611Uvn",
       "flags": {},
       "type": 0,
-      "name": "Tentacle Rod",
+      "name": "Nine Lives Stealer",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1106,10 +840,10 @@
       "drawn": false
     },
     {
-      "_id": "ko69cpgfVwXDX8zM",
+      "_id": "DKm2VBhBywSs931Y",
       "flags": {},
       "type": 0,
-      "name": "Vicious Weapon",
+      "name": "Oathbow",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1120,10 +854,10 @@
       "drawn": false
     },
     {
-      "_id": "MqBUO2DaGWFLxyXB",
+      "_id": "4z0vWxEUGdxK5oUa",
       "flags": {},
       "type": 0,
-      "name": "Wand of Binding",
+      "name": "+2 scale mail",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1134,10 +868,10 @@
       "drawn": false
     },
     {
-      "_id": "rk15CxNIAAyZ7B5T",
+      "_id": "iKCFNk8eIpkAtXEF",
       "flags": {},
       "type": 0,
-      "name": "Wand of Enemy Detection",
+      "name": "Spellguard Shield",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1148,10 +882,10 @@
       "drawn": false
     },
     {
-      "_id": "Na5I6pnYmOBOhK0C",
+      "_id": "LwaYz0duP3SqfnDu",
       "flags": {},
       "type": 0,
-      "name": "Wand of Fear",
+      "name": "+1 splint armor",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1162,10 +896,10 @@
       "drawn": false
     },
     {
-      "_id": "et6778oYV0CLakev",
+      "_id": "DXHjhvjJ7CdsI0Ge",
       "flags": {},
       "type": 0,
-      "name": "Wand of Fireballs",
+      "name": "Splint Armor of Resistance",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1176,10 +910,10 @@
       "drawn": false
     },
     {
-      "_id": "kFlV9ylBpd7A8aFw",
+      "_id": "ihEVAGxp5FSWQoRp",
       "flags": {},
       "type": 0,
-      "name": "Wand of Lightning Bolts",
+      "name": "+1 studded leather armor",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1190,10 +924,10 @@
       "drawn": false
     },
     {
-      "_id": "45HdNsxaArhcXa1M",
+      "_id": "4oTDowWNXs3Iqvez",
       "flags": {},
       "type": 0,
-      "name": "Wand of Paralysis",
+      "name": "Studded Leather Armor of Resistance",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1204,10 +938,10 @@
       "drawn": false
     },
     {
-      "_id": "gG5lxnlvOZ9YmYHV",
+      "_id": "x3GzVJEdYZlJEFIg",
       "flags": {},
       "type": 0,
-      "name": "+2 wand of the war mage",
+      "name": "Tome of Clear Thought",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1218,10 +952,10 @@
       "drawn": false
     },
     {
-      "_id": "3P4GOxCkk4VI7L0Z",
+      "_id": "syggCnFq5WNeKILE",
       "flags": {},
       "type": 0,
-      "name": "Wand of Wonder",
+      "name": "Tome of Leadership and Influence",
       "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
@@ -1231,5 +965,5 @@
       ],
       "drawn": false
     }
-
+  
 ]

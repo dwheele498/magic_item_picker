@@ -2,6 +2,7 @@ package Items;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
+import javafx.scene.control.Alert;
 import javafx.scene.control.TreeItem;
 import javafx.scene.control.TreeView;
 import sample.SqlOps;
@@ -9,10 +10,7 @@ import sample.SqlOps;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.ArrayList;
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 public abstract class MagicItemcontainer {
     HashMap<Integer, MagicItems> containerMap;
@@ -44,7 +42,7 @@ public abstract class MagicItemcontainer {
                 item.setRarity(rarity);
                 item.setTier(tier);
                 this.addItem(item.rollEnd, item);
-               SqlOps.InsertTable(item);
+                SqlOps.InsertTable(item);
             }
         } catch (Exception e) {
             System.out.println(e);
@@ -68,6 +66,29 @@ public abstract class MagicItemcontainer {
         }
 
     }
-    public abstract void Roll(TreeView<MagicItems> treeView, String selction, int index);
+
+    public void Roll(TreeView<MagicItems> treeView, String selction, int index, int treeSectionIndex) {
+        Random random = new Random();
+        int times = Integer.parseInt(selction);
+        if (times < 1 || times > 20) {
+            Alert alert = new Alert(Alert.AlertType.ERROR);
+            alert.setTitle("Error");
+            alert.setHeaderText("Roll Value Error");
+            alert.setContentText("You must enter a value between 1 and 100");
+            alert.showAndWait();
+        } else {
+            for (int i = 0; i < times; i++) {
+                var minorItemSelection = treeView.getRoot().getChildren().get(index);
+                var selector = minorItemSelection.getChildren().get(treeSectionIndex);
+                ArrayList<Integer> options = new ArrayList<>();
+                for (MagicItems item : getList()
+                ) {
+                    options.add(item.getRollEnd());
+                }
+                var result = options.get(random.nextInt(options.size()));
+                selector.getChildren().add(new TreeItem<MagicItems>(this.getItem(result)));
+            }
+        }
+    }
 }
 

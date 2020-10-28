@@ -1,38 +1,10 @@
-{
-  "_id": "StBFkPWUf2JpQRNu",
-  "name": "Minor Tier Very Rare",
-  "sort": 1500001,
-  "flags": {
-    "exportSource": {
-      "world": "test1",
-      "system": "dnd5e",
-      "coreVersion": "0.7.5",
-      "systemVersion": 0.96
-    }
-  },
-  "img": "icons/svg/d20-grey.svg",
-  "description": "",
-  "results": [
-    {
-      "_id": "mmt2idRCHeEmcdyT",
-      "flags": {},
-      "type": 0,
-      "text": "Portable Hole",
-      "img": "icons/svg/d20-black.svg",
-      "resultId": "",
-      "weight": 1,
-      "range": [
-        0,
-        0
-      ],
-      "drawn": false
-    },
+[
     {
       "_id": "V7JFX0MzoB6G593H",
       "flags": {},
       "type": 0,
-      "text": "Potion of Supreme Healing",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Supreme Healing",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -45,8 +17,8 @@
       "_id": "OD0YqrEEzLO8aG6T",
       "flags": {},
       "type": 0,
-      "text": "Potion of Invisibility",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Invisibility",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -59,8 +31,8 @@
       "_id": "wRsVqNVPye5GyND1",
       "flags": {},
       "type": 0,
-      "text": "Potion of Speed",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Speed",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -73,8 +45,8 @@
       "_id": "y3sdIqJaIdn61OuM",
       "flags": {},
       "type": 0,
-      "text": "Spell Scroll (6th level)",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Spell Scroll (6th level)",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -87,8 +59,8 @@
       "_id": "NhtRSvQAwgtEz5TZ",
       "flags": {},
       "type": 0,
-      "text": "Spell Scroll (7th level)",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Spell Scroll (7th level)",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -101,8 +73,8 @@
       "_id": "C41SSBCIZY15sgQN",
       "flags": {},
       "type": 0,
-      "text": "+3 ammunition",
-      "img": "icons/svg/d20-black.svg",
+      "name": "+3 ammunition",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -115,8 +87,8 @@
       "_id": "H91Jvvq1jVhugUeN",
       "flags": {},
       "type": 0,
-      "text": "Oil of Sharpness",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Oil of Sharpness",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -129,8 +101,8 @@
       "_id": "JFQfTJ9MBqkpdqNP",
       "flags": {},
       "type": 0,
-      "text": "Potion of Flying",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Flying",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -143,8 +115,8 @@
       "_id": "UUpOxTd1Kx6Vxg0T",
       "flags": {},
       "type": 0,
-      "text": "Potion of Cloud Giant Strength",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Cloud Giant Strength",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -157,8 +129,8 @@
       "_id": "npC6j9USW9aFAAEz",
       "flags": {},
       "type": 0,
-      "text": "Potion of Longevity",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Longevity",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -171,8 +143,8 @@
       "_id": "oZA0uax4TXs8WTpt",
       "flags": {},
       "type": 0,
-      "text": "Potion of Vitality",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Potion of Vitality",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -185,8 +157,8 @@
       "_id": "s1ayodeLzRGGIlUX",
       "flags": {},
       "type": 0,
-      "text": "Spell Scroll (8th level)",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Spell Scroll (8th level)",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -199,8 +171,8 @@
       "_id": "wIRvIVT0rbWIUIFl",
       "flags": {},
       "type": 0,
-      "text": "Horseshoes of a Zephyr",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Horseshoes of a Zephyr",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -213,8 +185,8 @@
       "_id": "Y3avP97PMTvcf9H6",
       "flags": {},
       "type": 0,
-      "text": "Nolzur's Marvelous Pigments",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Nolzur's Marvelous Pigments",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -227,8 +199,8 @@
       "_id": "a7MDjWpjUKzM97vK",
       "flags": {},
       "type": 0,
-      "text": "Bag of Devouring",
-      "img": "icons/svg/d20-black.svg",
+      "name": "Bag of Devouring",
+      "url": "icons/svg/d20-black.svg",
       "resultId": "",
       "weight": 1,
       "range": [
@@ -237,8 +209,4 @@
       ],
       "drawn": false
     }
-  ],
-  "formula": "d100",
-  "replacement": true,
-  "displayRoll": true
-}
+  ]
