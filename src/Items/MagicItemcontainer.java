@@ -10,6 +10,7 @@ import sample.SqlOps;
 import java.io.Reader;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.sql.ResultSet;
 import java.util.*;
 
 public abstract class MagicItemcontainer {
@@ -50,12 +51,12 @@ public abstract class MagicItemcontainer {
     }
 
     public void GetTableItems(String rarity, String tier) {
-        var rs = SqlOps.SelectTable(rarity, tier);
+        ArrayList<String> rs = SqlOps.SelectTable(rarity, tier);
         ArrayList<MagicItems> items = new ArrayList<>();
         for (String s : rs
         ) {
-            var split = s.split("_");
-            var i = new MagicItems(split[0], split[1], Integer.parseInt(split[3]), Integer.parseInt(split[2]));
+            String[] split = s.split("_");
+            MagicItems i = new MagicItems(split[0], split[1], Integer.parseInt(split[3]), Integer.parseInt(split[2]));
             i.setTier(split[4]);
             i.setRarity(split[5]);
             items.add(i);
@@ -67,25 +68,24 @@ public abstract class MagicItemcontainer {
 
     }
 
-    public void Roll(TreeView<MagicItems> treeView, String selction, int index, int treeSectionIndex) {
+    public void Roll(TreeView<MagicItems> treeView, int selction, int index, int treeSectionIndex) {
         Random random = new Random();
-        int times = Integer.parseInt(selction);
-        if (times < 1 || times > 20) {
+        if (selction < 1 || selction > 20) {
             Alert alert = new Alert(Alert.AlertType.ERROR);
             alert.setTitle("Error");
             alert.setHeaderText("Roll Value Error");
             alert.setContentText("You must enter a value between 1 and 100");
             alert.showAndWait();
         } else {
-            for (int i = 0; i < times; i++) {
-                var minorItemSelection = treeView.getRoot().getChildren().get(index);
-                var selector = minorItemSelection.getChildren().get(treeSectionIndex);
+            for (int i = 0; i < selction; i++) {
+                TreeItem<MagicItems> minorItemSelection = treeView.getRoot().getChildren().get(index);
+                TreeItem<MagicItems> selector = minorItemSelection.getChildren().get(treeSectionIndex);
                 ArrayList<Integer> options = new ArrayList<>();
                 for (MagicItems item : getList()
                 ) {
                     options.add(item.getRollEnd());
                 }
-                var result = options.get(random.nextInt(options.size()));
+                int result = options.get(random.nextInt(options.size()));
                 selector.getChildren().add(new TreeItem<MagicItems>(this.getItem(result)));
             }
         }

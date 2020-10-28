@@ -50,7 +50,7 @@ public class Controller {
         TreeItem<MagicItems> minLegendary = new TreeItem(new MagicItems("Legendary"));
         itemTree.getRoot().getChildren().add(minorTier);
         minorItemIndex = itemTree.getRoot().getChildren().indexOf(minorTier);
-        var minorItem = itemTree.getRoot().getChildren().get(minorItemIndex);
+        TreeItem<MagicItems> minorItem = itemTree.getRoot().getChildren().get(minorItemIndex);
         minorItem.getChildren().add(micommonItems);
         minorItem.getChildren().add(miUncommonItems);
         minorItem.getChildren().add(minRareItems);
@@ -72,7 +72,7 @@ public class Controller {
         TreeItem<MagicItems> minLegendary = new TreeItem(new MagicItems("Legendary"));
         itemTree.getRoot().getChildren().add(majorTier);
         majorItemIndex = itemTree.getRoot().getChildren().indexOf(majorTier);
-        var majorItem = itemTree.getRoot().getChildren().get(majorItemIndex);
+        TreeItem<MagicItems> majorItem = itemTree.getRoot().getChildren().get(majorItemIndex);
         majorItem.getChildren().add(miUncommonItems);
         majorItem.getChildren().add(minRareItems);
         majorItem.getChildren().add(minVRareItems);
@@ -85,44 +85,44 @@ public class Controller {
     }
 
     public void MinorCommonRoll() {
-        minComm.Roll(itemTree, common.getText(), minorItemIndex, 0);
+        minComm.Roll(itemTree, Integer.parseInt(common.getText()), minorItemIndex, 0);
     }
 
     public void MinorUncommonRoll() {
-        minorUncommon.Roll(itemTree, uncommon.getText(), minorItemIndex, 1);
+        minorUncommon.Roll(itemTree, Integer.parseInt(uncommon.getText()), minorItemIndex, 1);
     }
 
     public void MinorRareRoll() {
-        minorRare.Roll(itemTree, rare.getText(), minorItemIndex, 2);
+        minorRare.Roll(itemTree, Integer.parseInt(rare.getText()), minorItemIndex, 2);
     }
 
     public void MinorVRareRoll() {
-        minorVRare.Roll(itemTree, vrare.getText(), minorItemIndex, 3);
+        minorVRare.Roll(itemTree, Integer.parseInt(vrare.getText()), minorItemIndex, 3);
     }
 
     public void MinorLegendary() {
-        minorLegendary.Roll(itemTree, legend.getText(), minorItemIndex, 4);
+        minorLegendary.Roll(itemTree, Integer.parseInt(legend.getText()), minorItemIndex, 4);
     }
 
 
     public void MajorUncommonRoll() {
-        majorLegendary.Roll(itemTree, muncommon.getText(), majorItemIndex, 0);
+        majorUncommon.Roll(itemTree, Integer.parseInt(muncommon.getText()), majorItemIndex, 0);
     }
 
     public void MajorRareRoll() {
-        majorRare.Roll(itemTree, mrare.getText(), majorItemIndex, 1);
+        majorRare.Roll(itemTree, Integer.parseInt(mrare.getText()), majorItemIndex, 1);
     }
 
     public void MajorVRareRoll() {
-        majorVRare.Roll(itemTree, mvrare.getText(), majorItemIndex, 2);
+        majorVRare.Roll(itemTree, Integer.parseInt(mvrare.getText()), majorItemIndex, 2);
     }
 
     public void MajorLegendary() {
-        majorLegendary.Roll(itemTree, mlegend.getText(), majorItemIndex, 3);
+        majorLegendary.Roll(itemTree, Integer.parseInt(mlegend.getText()), majorItemIndex, 3);
     }
 
     public void Reset() {
-        var minor = itemTree.getRoot().getChildren().get(0);
+        TreeItem<MagicItems> minor = itemTree.getRoot().getChildren().get(0);
         itemTree.getRoot().getChildren().clear();
         ConfigureTreeMinor();
         ConfigureTreeMajor();

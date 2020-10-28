@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MagicItem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MagicItem_jar</output-path>
+    <root id="archive" name="MagicItem.jar">
+      <element id="module-output" name="MagicItem" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../sqlite-jdbc-3.32.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PATH_TO_FX$/src/MagicItem.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar" path-in-jar="/" />
+      <element id="library" level="project" name="lib" />
+      <element id="library" level="project" name="sqlite-jdbc-3.32.3.2" />
+      <element id="library" level="project" name="com.google.code.gson:gson:2.8.6" />
+    </root>
+  </artifact>
+</component>

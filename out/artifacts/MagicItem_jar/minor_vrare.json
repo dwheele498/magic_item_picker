@@ -1,0 +1,212 @@
+[
+    {
+      "_id": "V7JFX0MzoB6G593H",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Supreme Healing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OD0YqrEEzLO8aG6T",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Invisibility",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wRsVqNVPye5GyND1",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Speed",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        40
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "y3sdIqJaIdn61OuM",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (6th level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        41,
+        50
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NhtRSvQAwgtEz5TZ",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (7th level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        51,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "C41SSBCIZY15sgQN",
+      "flags": {},
+      "type": 0,
+      "name": "+3 ammunition",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        62
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "H91Jvvq1jVhugUeN",
+      "flags": {},
+      "type": 0,
+      "name": "Oil of Sharpness",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        63,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JFQfTJ9MBqkpdqNP",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Flying",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        72
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "UUpOxTd1Kx6Vxg0T",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Cloud Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        73,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "npC6j9USW9aFAAEz",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Longevity",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "oZA0uax4TXs8WTpt",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Vitality",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "s1ayodeLzRGGIlUX",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (8th level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wIRvIVT0rbWIUIFl",
+      "flags": {},
+      "type": 0,
+      "name": "Horseshoes of a Zephyr",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Y3avP97PMTvcf9H6",
+      "flags": {},
+      "type": 0,
+      "name": "Nolzur's Marvelous Pigments",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "a7MDjWpjUKzM97vK",
+      "flags": {},
+      "type": 0,
+      "name": "Bag of Devouring",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+  ]

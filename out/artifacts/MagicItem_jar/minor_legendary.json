@@ -1,0 +1,100 @@
+[
+  {
+      "_id": "JNYmUjfgyPvAwqT8",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (8th level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        30
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "qolmOFA0H9aeKVxY",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Storm Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        31,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lfIMsTp4gtfjnv7C",
+      "flags": {},
+      "type": 0,
+      "name": "Potion of Supreme Healing",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        70
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "mGfWFNQuZJVKT7rK",
+      "flags": {},
+      "type": 0,
+      "name": "Spell Scroll (9th level)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        71,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "V6yoRtEvrxPUxa44",
+      "flags": {},
+      "type": 0,
+      "name": "Universal Solvent",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3HsNEHjRI76l5Od8",
+      "flags": {},
+      "type": 0,
+      "name": "Arrow of Slaying",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "AWzuNSA9BzS365Py",
+      "flags": {},
+      "type": 0,
+      "name": "Sovereign Glue",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        100
+      ],
+      "drawn": false
+    }
+  ]

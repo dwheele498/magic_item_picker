@@ -1,0 +1,745 @@
+[
+    {
+      "_id": "NORKiWQbTkVQrdmI",
+      "flags": {},
+      "type": 0,
+      "name": "Tome of the Stilled Tongue",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        0,
+        0
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kK8JG06hHKBZpv1q",
+      "flags": {},
+      "type": 0,
+      "name": "Defender",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "xN33GXlkgZcFEO5V",
+      "flags": {},
+      "type": 0,
+      "name": "Hammer of Thunderbolts",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "rp8ATc2r1bVJfCE1",
+      "flags": {},
+      "type": 0,
+      "name": "Luck Blade",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CF0d0vXRcLaMfsXH",
+      "flags": {},
+      "type": 0,
+      "name": "Sword of Answering",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        20
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PN3ZuEj8cOdQhRxZ",
+      "flags": {},
+      "type": 0,
+      "name": "Holy Avenger",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        21,
+        23
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JChqdg8vxtIUF5wA",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Djinni Summoning",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        24,
+        26
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "dC8xCTm3jyjRxa2u",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Invisibility",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        27,
+        29
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nzNKogy8vfqdylnR",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Spell Turning",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        30,
+        32
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Bskqg2Xk7B4Ve6aC",
+      "flags": {},
+      "type": 0,
+      "name": "Rod of Lordly Might",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        33,
+        35
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "A8dqNrBpDYmvKlmn",
+      "flags": {},
+      "type": 0,
+      "name": "Staff of the Magi",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        36,
+        38
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2TLW0bkiNykTLoMO",
+      "flags": {},
+      "type": 0,
+      "name": "Vorpal sword",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        39,
+        41
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2mfKVXfyrGDAsWFY",
+      "flags": {},
+      "type": 0,
+      "name": "Belt of Cloud Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        42,
+        43
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "yRxPVyUeSEiOks76",
+      "flags": {},
+      "type": 0,
+      "name": "+2 breastplate",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        44,
+        45
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jTmEdNfOJDufvu7J",
+      "flags": {},
+      "type": 0,
+      "name": "+3 chain mail",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        46,
+        47
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FeCUHZSsCZx4tcGv",
+      "flags": {},
+      "type": 0,
+      "name": "+3 chain shirt",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        48,
+        49
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "krnJLqCGlY4HnPav",
+      "flags": {},
+      "type": 0,
+      "name": "Cloak of Invisibility",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        50,
+        51
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "cBbwsbsmtBLVS6hc",
+      "flags": {},
+      "type": 0,
+      "name": "Crystal Ball (legendary version)",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        52,
+        53
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7xTERYMuoqT18XIl",
+      "flags": {},
+      "type": 0,
+      "name": "+1 half plate armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        54,
+        55
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "aVHgg7GnPlpqgAPZ",
+      "flags": {},
+      "type": 0,
+      "name": "Iron Flask",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        56,
+        57
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "n4Df1DxpuNv4PkR1",
+      "flags": {},
+      "type": 0,
+      "name": "+3 leather armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        58,
+        59
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eh7UJjbflewpg9WN",
+      "flags": {},
+      "type": 0,
+      "name": "+1 plate armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        60,
+        61
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "M8d7lEinicaYGKdo",
+      "flags": {},
+      "type": 0,
+      "name": "Robe of the Archmagi",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        62,
+        63
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "GXHnrxh3Dk1C6XRj",
+      "flags": {},
+      "type": 0,
+      "name": "Rod of Resurrection",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        64,
+        65
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "V1NesvD4JgezAcl9",
+      "flags": {},
+      "type": 0,
+      "name": "+1 scale mail",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        66,
+        67
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "x1lXNTL2hMhub1kx",
+      "flags": {},
+      "type": 0,
+      "name": "Scarab of Protection",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        68,
+        69
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ACCA8Bw5wNSPNJcq",
+      "flags": {},
+      "type": 0,
+      "name": "+2 splint armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        70,
+        71
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ToALX48BdMQjbg2r",
+      "flags": {},
+      "type": 0,
+      "name": "+2 studded leather armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        72,
+        73
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "PdDkPLiMvAmhNej1",
+      "flags": {},
+      "type": 0,
+      "name": "Well of Many Worlds",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        74,
+        75
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "KnS8lOyBy6vtSOZv",
+      "flags": {},
+      "type": 0,
+      "name": "Magic armor",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Das5ddlVtdkNnh9j",
+      "flags": {},
+      "type": 0,
+      "name": "Apparatus of Kwalish",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ukgRiRGniVIYMvnr",
+      "flags": {},
+      "type": 0,
+      "name": "Armor of Invulnerability",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "c5Y3LT3MH7zyqAYW",
+      "flags": {},
+      "type": 0,
+      "name": "Belt of Storm Giant Strength",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NZBm3nKYC64l5COc",
+      "flags": {},
+      "type": 0,
+      "name": "Cubic Gate",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "CJ8q1sYWKgzOQvpQ",
+      "flags": {},
+      "type": 0,
+      "name": "Deck of Many Things",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "f879T3gQaNF1l9vs",
+      "flags": {},
+      "type": 0,
+      "name": "Efreeti Chain",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "lgBiiLrz3j45nWia",
+      "flags": {},
+      "type": 0,
+      "name": "Half Plate Armor of Resistance",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2g8t1iIBCYpcxybk",
+      "flags": {},
+      "type": 0,
+      "name": "Horn of Valhalla, Iron",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "82T6Pnn12rKKPdxS",
+      "flags": {},
+      "type": 0,
+      "name": "Instrument of the Bards, Ollamh Harp",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "NU2z9AGXBeC2D2tg",
+      "flags": {},
+      "type": 0,
+      "name": "Ioun Stone, Greater Absorption",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "VAJcfFhQLnfWo6bB",
+      "flags": {},
+      "type": 0,
+      "name": "Ioun Stone, Mastery",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "nZ88OCC7HfAho6T4",
+      "flags": {},
+      "type": 0,
+      "name": "Ioun Stone, Regeneration",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uA08WjWkO3n7jfpo",
+      "flags": {},
+      "type": 0,
+      "name": "Plate armor of etherealness",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "g6POIwxx8p1xUfJp",
+      "flags": {},
+      "type": 0,
+      "name": "Plate Armor of Resistance",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "C3XLXdwqkIYKvr05",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Air Elemental Command",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fNyCxBCbxfy59KqG",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Earth Elemental Command",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7fMWpLhqScCQ3AqL",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Fire Elemental Command",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "W4QiZi4KpG76YxZn",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Three Wishes",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2zoqEv2llbVxeMpc",
+      "flags": {},
+      "type": 0,
+      "name": "Ring of Water Elemental Command",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7k9trQXWunojM4EW",
+      "flags": {},
+      "type": 0,
+      "name": "Sphere of Annihilation",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "SdQwHG03enuYh1fC",
+      "flags": {},
+      "type": 0,
+      "name": "Talisman of Pure Good",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "FDLmJVr1h4VexNcd",
+      "flags": {},
+      "type": 0,
+      "name": "Talisman of the Sphere",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "TTLIOJVeh9Tn29SN",
+      "flags": {},
+      "type": 0,
+      "name": "Talisman of Ultimate Evil",
+      "url": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false
+    }
+
+]
